@@ -9,7 +9,7 @@ The goal was to create any project (game, story, or animation) that met these re
 - At least **one custom block** with an input.  
 - A project that is **more complex than lecture demos** but simpler than full-featured games like *Oscartime*.  
 
-The assignment emphasized:  
+The assignment emphasised:  
 - **Abstraction** (breaking long scripts into smaller blocks).  
 - **Step-by-step development** (build, test, improve).  
 - **Well-designed code** using Scratch’s visual building blocks.  
