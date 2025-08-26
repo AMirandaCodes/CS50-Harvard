@@ -15,3 +15,21 @@ The assignment emphasised:
 - **Well-designed code** using Scratch’s visual building blocks.  
 
 This module laid the foundation for problem-solving, algorithmic thinking, and structured project design.  
+
+## My Scratch Project - Arctic Escape
+
+**Arctic Escape** is a simple game where the player controls a penguin trying to navigate through an icy maze while avoiding obstacles.
+
+*Homepage*
+<img width="1180" height="882" alt="Artic Escape - Homepage" src="https://github.com/user-attachments/assets/662b5528-a3d2-4836-8943-b0ff8189b03f" />
+
+*Gameplay*
+<img width="1175" height="874" alt="Artic Escape - Lvl1" src="https://github.com/user-attachments/assets/9eebf2bb-0f49-436f-be45-6c06ec9bfee4" />
+
+
+### How to Play
+- Use the arrow keys to move the penguin across the ice.  
+- Avoid the snowballs (if you touch them, they send you back to the starting point)
+- Reach the igloo to complete the level.
+
+*You can play the game directly on Scratch here: https://scratch.mit.edu/projects/1195979045*
