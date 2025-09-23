@@ -74,4 +74,4 @@ void grayscale(int height, int width, RGBTRIPLE image[height][width])
     }
 }
 ```
-_(Full implementation in filter-less.c)_
+_(Full implementation in helpers.c)_
